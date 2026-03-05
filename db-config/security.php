@@ -20,10 +20,6 @@
 /**
  * Sanitize a string for HTML output
  */
- /**
-  * Google Client ID : 3881994274-hgtelja2b8a7qho4t0t4akot9fd7am96.apps.googleusercontent.com
-  * Google Client Secret: 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
-  */
 
 session_start();
 

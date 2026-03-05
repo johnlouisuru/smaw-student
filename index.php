@@ -89,10 +89,12 @@ $google_auth_url = 'https://accounts.google.com/o/oauth2/v2/auth?' . http_build_
 <body>
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-12 col-sm-10 col-md-8 col-lg-4">
+            <div class="col-12 col-sm-10 col-md-8 col-lg-12 col-xl-6">
                 <div class="login-card">
                     <div class="login-header">
                         <i class="bi bi-mortarboard-fill" style="font-size: 3rem;"></i>
+                        <h1></h1>
+                        <hr />
                         <h2 class="mt-3 mb-2">Student Registration or Login?</h2>
                         <p class="mb-0">Not yet Registered?</p>
                     </div>
